@@ -1,0 +1,21 @@
+.nav {
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    height: 105px;
+    background-color: #16ABF8;
+}
+
+.nav h1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+
+    margin-left: 220px;
+    margin-top: 38px;
+
+    
+    color: #FFFFFF;
+}

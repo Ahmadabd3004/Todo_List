@@ -1,0 +1,86 @@
+.container {
+  margin-top: 200px;
+}
+
+.container h1 {
+  position: absolute;
+  width: 145px;
+  height: 54px;
+  left: 220px;
+  top: 148px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+  /* identical to box height */
+
+  color: #111111;
+}
+
+.emptyList img {
+  position: absolute;
+  width: 767px;
+  height: 490px;
+  left: 336px;
+  top: 267px;
+}
+
+.listItems {
+  position: absolute;
+  left: 200px;
+  width: 1040px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 29px;
+  padding-left: 18px;
+}
+
+.card {
+  width: 235px;
+  height: 234px;
+  background: #ffffff;
+  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  margin: 13px 10px;
+  position: relative;
+}
+
+.card h1 {
+  position: absolute;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 27px;
+
+  top: 22px;
+  left: 27px;
+}
+
+.card h2 {
+  position: absolute;
+  width: 150px;
+  height: 21px;
+  left: 27px;
+  bottom: 25px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+
+  color: #888888;
+}
+
+.card img {
+  position: absolute;
+  right: 26px;
+  bottom: 28px;
+}
